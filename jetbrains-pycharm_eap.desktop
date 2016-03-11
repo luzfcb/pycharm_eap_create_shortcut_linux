@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=PyCharmEAP
+Icon=/home/luzfcb/bin/pycharm-144.4199.7/bin/pycharm.png
+Exec="/home/luzfcb/bin/pycharm-144.4199.7/bin/pycharm.sh" %f
+Comment=Develop with pleasure!
+Categories=Development;IDE;
+Terminal=false
+StartupWMClass=jetbrains-pycharm
+OnlyShowIn=Old;
